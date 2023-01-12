@@ -28,7 +28,7 @@ console.log(num)
 
 // Splice and Slice
 let numb = [551, 22, 3, 14, 5, 6, 7, 8, 229]
-let deletedValues = num.splice(2, 4, 1021, 1022, 1023, 1024, 1025)
+let deletedValues = numb.splice(2, 4, 1021, 1022, 1023, 1024, 1025)
 console.log(numb)
 console.log(deletedValues)
 
