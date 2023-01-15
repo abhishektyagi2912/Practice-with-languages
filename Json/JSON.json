@@ -1,0 +1,12 @@
+{
+    "name": "Abhishek",
+    "version": "1.0",
+    "description": "This is a sample module",
+    "score":75,
+    "item":["item1","item2","item3"],
+    "myObj":{
+        "name":"Abhishek",
+        "age":22,
+        "item2":["item1","item2","item3",{"a": true, "b": false}]
+    }
+}
