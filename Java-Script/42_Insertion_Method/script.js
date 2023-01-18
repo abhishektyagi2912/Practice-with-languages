@@ -10,4 +10,4 @@ div.innerHTML = '<h1>Hello World!</h1>';
 // a.prepend(div);
 a.before(div);
 // a.after(div);
-// a.replaceWith(div);
+a.replaceWith(div);
