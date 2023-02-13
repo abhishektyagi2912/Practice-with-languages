@@ -14,7 +14,7 @@ class RailwayForm {
 // Create a form for Abhi
 let abhiForm = new RailwayForm()
 // Fill the form with Abhi's details
-abhiForm.fill("Harry", 145316)
+abhiForm.fill("Abhi", 145316)
 
 // Create a forms for Rohan
 let rohanForm1 = new RailwayForm()
