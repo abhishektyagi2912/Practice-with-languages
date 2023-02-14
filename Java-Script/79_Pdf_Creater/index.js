@@ -26,15 +26,15 @@ var options = {
 
 var users = [
     {
-      name: "tom",
+      name: "aneesh",
       age: "21",
     },
     {
-      name: "dick",
+      name: "rishi",
       age: "23",
     },
     {
-      name: "harry",
+      name: "abhishek",
       age: "29",
     },
   ];
