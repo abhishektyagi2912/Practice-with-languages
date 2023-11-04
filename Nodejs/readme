@@ -1,0 +1,28 @@
+// node js ek c++ ka code h that is taken from chrome brower ke v8 engine k code s aur is c++ k code ko wrap kiya gya h js k 
+// andar to y allow krta ki hum js code likhe or y js code c++ k code ko call kr ske or y apko ek server env bna k dega, par sirf tb tk jb tk y code chalyega
+
+
+//  npm is node package manager but now all package are available in this so this has no full form 
+// npm ek jgh h jha s hum apne project m koi b package install kr skte h mtlb package milte h yha s
+// packages mtlb prebilt code h jo hum use kr skte h and npm is like a store jha s hum package le skte h
+
+// npm install --> npm s kuch install krna h to y command use krte h
+// npm install express --> express install krna h to y command use krte h
+// npm i --> npm install ka short form h
+
+// express is a framework 
+// express ka use case --> routing 
+// types of routing --> get, post, put, delete
+
+// if we make route get then we can access and show the data in url 
+// if we make route post then we don't show the data in url
+
+// we want two things to make get route if app.get(route ,function) or in function we have two things request and response
+// if app.get('/') then we make route get
+
+
+// but dikat kya ayegi ki jb bhi hum ese run krenge to y run hoga but jb hum koi change krenge to y change nhi hoga server pr so we use nodemon
+// nodemon is a package that is used to auto restart the server
+// npm i nodemon -g --> g means globally install mtlb humko kbhi bhi nodemon use krna h to y globally install ho jayega like some software install krte h to y globally install ho jata h
+// nodemon script.js --> nodemon use krne k liye y command use krte h
+// if some error occurs to install nodemon then use npx nodemon script.js
