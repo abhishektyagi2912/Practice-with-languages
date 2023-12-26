@@ -28,7 +28,6 @@ A collection of projects I have worked on.
 8. [Heart-Disease-Prediction](https://github.com/abhishektyagi2912/Heart-Disease-Prediction)
 9. [Gold-price-prediction](https://github.com/abhishektyagi2912/Gold-Price-Prediction)
 10. [Disease-Detection-in-plant](https://github.com/abhishektyagi2912/Disease-Detection-in-plant)
-11. 
 
 ### Frontend
 1. [Spike-Website](https://github.com/abhishektyagi2912/spike-website)
@@ -38,7 +37,7 @@ A collection of projects I have worked on.
 5. [Medium-portfolio](https://github.com/abhishektyagi2912/portfolio)
 6. [Mobile-Website](https://github.com/abhishektyagi2912/Mw)
 7. [Advance-Portfolio](https://github.com/abhishektyagi2912/portfolio.dev)
-8. 
+   
 
 ## Fullstack
 1. [Space-Bites](https://github.com/abhishektyagi2912/SpaceBites)
@@ -48,12 +47,12 @@ A collection of projects I have worked on.
 5. [Notes-Api-CRUD](https://github.com/abhishektyagi2912/Notes_Api)
 6. [E-commerce](https://github.com/abhishektyagi2912/E-commerce-Backend)
 7. [Auto_reply-mail](https://github.com/abhishektyagi2912/AutoEmailReply-Nodejs)
-8. 
 
+   
 ## Mobile-Applications
 1. [Calculator-App](https://github.com/abhishektyagi2912/Calclulator-App)
 2. [New-App](https://github.com/abhishektyagi2912/Daily-Hunt-News-App)
 3. [Doubt-Hub](https://github.com/abhishektyagi2912/Doubt-Hub)
 4. [Contact-List](https://github.com/abhishektyagi2912/Contact_List_App)
 5. [Express-Chat](https://github.com/abhishektyagi2912/Express-Chat)
-6. 
+   
